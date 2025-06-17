@@ -1,4 +1,4 @@
-# SCR_DS_01-Task1
+# SCT_DS_01-Task1
 India's population distribution by age in 2022
 #create a bar chart 
 *Task 1: Visualization of India’s Population Distribution by Age (2022)*   
